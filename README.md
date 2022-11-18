@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Praveen</h1>
+<h3 align="center">A passionate Data Science Trainee </h3>
+
 # 💫 About Me:
 I am currently a data science trainee in Almabetter where I have gained excellent proficiency and understanding in various tools to implement real-world ML projects.<br>Open to work in data science roles to showcase as well as upgrade my skills by solving real life problems.
 
